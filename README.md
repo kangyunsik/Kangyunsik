@@ -4,7 +4,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={01089292615})](https://solved.ac/{01089292615})
 
 ![Kangyunsik github stats](https://github-readme-stats.vercel.app/api?username=Kangyunsik&show_icons=true&theme=onedark) 
 
