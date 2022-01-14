@@ -5,7 +5,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=01089292615)](https://solved.ac/01089292615)
 
-<img src="https://github.com/kangyunsik/Kangyunsik/issues/1"/>
+<img width=350px src="https://github-readme-stats.vercel.app/api?username=Kangyunsik&show_icons=true&theme=onedark"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangyunsik&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
