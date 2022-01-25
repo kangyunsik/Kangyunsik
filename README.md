@@ -7,41 +7,40 @@
 
 ## 💻 Tools
 
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat_square&logo=IntelliJ IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat_square&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Putty-FFFFFF?style=flat_square&logo=AirPlayVideo&logoColor=black">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat_square&logo=IntelliJ IDEA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white"> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat_square&logo=Postman&logoColor=white"> 
+<img src="https://img.shields.io/badge/Putty-FFFFFF?style=flat_square&logo=AirPlayVideo&logoColor=black"> 
 
 <br>
 <br>
 
 ## 🔥 Main Tech
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat_square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat_square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat_square&logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat_square&logo=Hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat_square&logo=Thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat_square&logo=Html5&logoColor=black">
-
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat_square&logo=GoogleCloud&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat_square&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat_square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat_square&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat_square&logo=PostgreSQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat_square&logo=Hibernate&logoColor=white"> 
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat_square&logo=Thymeleaf&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat_square&logo=Html5&logoColor=black"> 
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat_square&logo=GoogleCloud&logoColor=white"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat_square&logo=Ubuntu&logoColor=white"> 
 
 <br>
 <br>
 
 ## 🐌 A Little Bit Of
 
-<img src="https://img.shields.io/badge/C++/C-00599C?style=flat_square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat_square&logo=AmazonAWS&logoColor=white">
-<img src="https://img.shields.io/badge/Git Actions-2088FF?style=flat_square&logo=GitHub Actions&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
-<img src="https://img.shields.io/badge/Css-1572B6?style=flat_square&logo=CSS3&logoColor=black">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat_square&logo=Javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat_square&logo=Node.js&logoColor=black">
-<img src="https://img.shields.io/badge/express-000000?style=flat_square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=Android&logoColor=black">
+<img src="https://img.shields.io/badge/C++/C-00599C?style=flat_square&logo=C&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat_square&logo=AmazonAWS&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git Actions-2088FF?style=flat_square&logo=GitHub Actions&logoColor=white"> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/Css-1572B6?style=flat_square&logo=CSS3&logoColor=black"> 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat_square&logo=Javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat_square&logo=Node.js&logoColor=black"> 
+<img src="https://img.shields.io/badge/express-000000?style=flat_square&logo=express&logoColor=white"> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=Android&logoColor=black"> 
 
 <br>
 <br>
