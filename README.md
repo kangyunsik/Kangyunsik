@@ -50,14 +50,14 @@
 
 ## 📌 Tech Of Interest
 
-
-<img src="https://img.shields.io/badge/MSA-543DE0?style=flat_square&logo=Polywork&logoColor=black">
-<img src="https://img.shields.io/badge/Netflix_oss-E50914?style=flat_square&logo=Netflix&logoColor=black">
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat_square&logo=ApacheKafka&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat_square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat_square&logo=Kubernetes&logoColor=white">
-
+<div>
+    <img src="https://img.shields.io/badge/MSA-543DE0?style=flat_square&logo=Polywork&logoColor=black">
+    <img src="https://img.shields.io/badge/Netflix_oss-E50914?style=flat_square&logo=Netflix&logoColor=black">
+    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat_square&logo=ApacheKafka&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat_square&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat_square&logo=Kubernetes&logoColor=white">
+</div>
 
 <br>
 <br>
