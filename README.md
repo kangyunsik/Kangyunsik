@@ -5,6 +5,14 @@
 
 <br>
 
+## 📊 Algorithm
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=01089292615)](https://solved.ac/01089292615)
+
+![zheldaktmxj's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=01089292615)
+
+<br>
+
 ## 💻 Tools
 <div>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat_square&logo=IntelliJ IDEA&logoColor=white"/> 
@@ -69,7 +77,6 @@
 <img width=420px src="https://github-readme-stats.vercel.app/api?username=Kangyunsik&show_icons=true&theme=onedark"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangyunsik&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=01089292615)](https://solved.ac/01089292615)
 
 
 <!--
