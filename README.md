@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-- 😄 Yunsik
-- 😼 Java/Spring
+- I'm Yunsik
+- Algorithm
+- Java/Spring
+- JPA/Querydsl
 
 <br>
 
 ## 📊 Algorithm
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=01089292615)](https://solved.ac/01089292615)
-
-![zheldaktmxj's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=01089292615)
+![01089292615's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=01089292615)
 
 <br>
 
